@@ -3,6 +3,6 @@ Artificial Intelligence Workbench
 
 ## Objects
 
-Datasets
-Workers
-Process
+* Datasets
+* Workers
+* Process
